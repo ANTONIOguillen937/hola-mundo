@@ -3,3 +3,4 @@ este es un nuevo archivo
 hola
 aprendi desde la terminal
 estoy en la terminal
+hola profe 

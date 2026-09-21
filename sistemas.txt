@@ -2,5 +2,3 @@
 este es un nuevo archivo
 hola
 aprendi desde la terminal
-
-

@@ -1,1 +1,2 @@
 hola mundo estes es mi primer documento
+hola es una actividad de sistemas operativos
